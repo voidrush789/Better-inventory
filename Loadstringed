@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/voidrush789/Better-inventory/refs/heads/main/Better_inventory"))()
